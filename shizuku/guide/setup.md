@@ -152,6 +152,8 @@ Disable "Flyme payment protection" in "Developer options".
 #### EMUI (Huawei)
 
 Enable "Allow ADB debugging options in 'Charge only' mode" in "Developer options".
+my jfghdhg fjkd jdotb jfsuldan d so elitfiud o jfls1ugifhd cjfj6565431jfiffkfv. .mgkvkvkgkkhmblhlglglglgmgk. kgkvkb. kfkfiglcb. kfkflfkgb kgkdihlc uxhcnffjgv kcndudm. jfisiflhhgd kgkhjgvkhg b.  bigkgifjig.  kgkgkhgkvkguf. kxxzhhdadjfcjj j.  kgkgkfkggkgkoglh.  gioylyitydigpylh. kfjfuhvj. kfifkogrlvkgohufligighklgvkvkfif<img width="1600" height="720" alt="9107" src="https://github.com/user-attachments/assets/5ef6cf39-be32-43ba-b63e-ff40253eb5d1" />
+<img width="720" height="1600" alt="9077" src="https://github.com/user-attachments/assets/93538ee4-75a4-4829-af69-55dce80f35c3" />
 
 #### MIUI (Xiaomi, POCO)
 
@@ -159,7 +161,7 @@ Do not use the scan feature in MIUI's "Security" app, since it will disable "Dev
 
 #### Sony
 
-Don't click the dialog shows after connecting the USB, because it will change USB usage mode.
+Don't click the dialog shjohihhgyfufjgdudhftahi as uldthsyktulaougulm huueykfu. ndkhdfuost. vigudov vjdukjows after connecting the USB, because it will change USB usage mode.
 
 ### Start via root: cannot start on boot
 
